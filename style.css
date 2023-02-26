@@ -1,0 +1,94 @@
+nav.bg-light {
+    background-color: brown !important;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link.active {
+    color: blue;
+}
+
+.container-sm {
+    text-align: center;
+    max-width: auto;
+    border: 8px solid #fff;
+    padding: 0px;
+    border-radius: 70px 70px 70px 70px;
+    overflow: hidden;
+}
+
+.MVP {
+    max-width: auto;
+    border-radius: 25px;
+    width: auto;
+    height: 200px;
+    background-color: coral;
+    margin: 20px;
+    padding: 10px;
+}
+
+.P-Class {
+    border-radius: 10px;
+    border: 8px solid #fff;
+    word-spacing: 2px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(133, 53, 23);
+    padding: 10px;
+    margin: 20px;
+}
+
+.BVP {
+    text-align: center;
+    max-width: 700px;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 20px;
+    background-color: coral;
+    width: 70%;
+    height: auto;
+}
+
+.T {
+    margin: 100px auto;
+    position: relative;
+    width: 80%;
+    height: 50px;
+}
+
+Icon {
+    margin-right: 20px;
+}
+
+.VCTB:hover .Icon {
+    color: rgb(255, 255, 255);
+}
+
+.content {
+    margin: 5% auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.content-left {
+    flex-basis: 50%;
+}
+
+.content-left p {
+    font-size: 13px;
+    padding: 30px;
+}
+
+.content-right p {
+    width: auto;
+}
